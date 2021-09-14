@@ -1,0 +1,19 @@
+this is a online test. Sync up with myself. StickyNotes.
+
+SKUBB
+
+ sur ils
+以前帮爸爸打印的天文学方面的文章，好厚，都是TEK公司打印的。
+
+收音机，有用还是纪念意义
+
+
+爸爸妈妈带来的圆规和游标卡尺，以前的设计工具，心酸
+
+document.getElementById("demo").innerHTML = "<h1><font color=red>person.language</font></h1><br><h2>
+<font color=red>person.firstName</font></h2>";
+
+
+945.82		6100房贷	6100: BNS MTGE DEPT MTG
+
+3052.74 202房贷	202: CIBC MTGE CORP MTG, 2021年为了加速还款少付罚金，月供double pay
